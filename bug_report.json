@@ -1,1 +1,9 @@
-
+{
+  "Steps to play": {
+    "Open site": "Bookstor",
+    "Click button": "Pay",
+    "Enter in the field card": "Visa card"
+  },
+  "Result": "Payment failed, please check the method",
+  "Expect Result": "paid successful"
+}
